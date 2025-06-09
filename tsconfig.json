@@ -17,5 +17,5 @@
     "strictFunctionTypes": false,
     "sourceMap": true
   },
-  "include": ["gatsby-theme-replica/src"]
+  "include": ["gatsby-theme-github-replica/src"]
 }

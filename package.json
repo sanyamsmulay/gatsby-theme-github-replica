@@ -13,10 +13,10 @@
     "dev": "yarn workspace example develop",
     "clean": "yarn workspace example clean",
     "eslint": "eslint --ext .js,.jsx,.ts,.tsx .",
-    "test": "yarn workspace gatsby-theme-replica test"
+    "test": "yarn workspace gatsby-theme-github-replica test"
   },
   "workspaces": [
-    "gatsby-theme-replica",
+    "gatsby-theme-github-replica",
     "example"
   ],
   "devDependencies": {

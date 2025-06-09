@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `Gatsby Theme Replica - example`,
-    siteUrl: 'https://gatsby-theme-replica.vercel.app',
+    siteUrl: 'https://gatsby-theme-github-replica.vercel.app',
     siteName: `Gatsby Theme Replica - example`,
-    description: 'Example site of using gatsby-theme-replica',
+    description: 'Example site of using gatsby-theme-github-replica',
     author: 'Author - Hiitea',
     bio: 'This is bio',
     location: 'Earth',
@@ -68,7 +68,7 @@ module.exports = {
     //   },
     // },
     {
-      resolve: 'gatsby-theme-replica',
+      resolve: 'gatsby-theme-github-replica',
       options: {
         contentPath: 'content',
       },

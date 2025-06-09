@@ -1,3 +1,3 @@
-const tailwindConfig = require('gatsby-theme-replica/tailwind.config');
+const tailwindConfig = require('gatsby-theme-github-replica/tailwind.config');
 
 module.exports = tailwindConfig;

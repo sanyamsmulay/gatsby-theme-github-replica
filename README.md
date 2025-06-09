@@ -1,10 +1,20 @@
-# Gatsby Theme Replica ![npm](https://img.shields.io/npm/v/gatsby-theme-replica?color=default) ![npm (tag)](https://img.shields.io/npm/v/gatsby-theme-replica/next) ![NPM](https://img.shields.io/npm/l/gatsby-theme-replica?color=blue)
+# Gatsby Theme Github Replica 
 
 Because we love octocat! :two_hearts:
 
 This theme is still in a very early stage, issues & Contributions are welcome!
 
 ## Post upgrade to all latest packages
+
+### Background 
+
+- started with `gatsby-theme-replica` 
+  - ![npm](https://img.shields.io/npm/v/gatsby-theme-replica?color=default) ![npm (tag)](https://img.shields.io/npm/v/gatsby-theme-replica/next) ![NPM](https://img.shields.io/npm/l/gatsby-theme-replica?color=blue)
+
+- forked it on github and started working on it
+- got it to work with my blog
+- but did not like the name, wanted to add what it was a replica of
+- so changed the name to `gatsby-theme-github-replica`
 
 ### Status: 
 
@@ -29,6 +39,7 @@ This theme is still in a very early stage, issues & Contributions are welcome!
 - attend to TODOs marked in code 
   - triage and fix
 - add search and pagination to archives, categories and tags pages
+- publish to npm
 
 ## Quick Start
 
@@ -37,24 +48,24 @@ Please use `yarn` as there is no `npm.lock` yet
 To get a stable version
 
 ```bash
-yarn add gatsby-theme-replica
+yarn add gatsby-theme-github-replica
 ```
 
 or to get the latest preview version
 
 ```bash
-yarn add gatsby-theme-replica@next
+yarn add gatsby-theme-github-replica@next
 ```
 
 ## gatsby-config.js
 
-### Add `gatsby-theme-replica` into plugin
+### Add `gatsby-theme-github-replica` into plugin
 
 ```js
 module.exports = {
   plugins: [
     {
-      resolve: 'gatsby-theme-replica',
+      resolve: 'gatsby-theme-github-replica',
       options: {
         contentPath: 'content', // folder of your post source
       },

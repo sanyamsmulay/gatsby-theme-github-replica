@@ -25,7 +25,7 @@ Lorem ipsum dolor sit amet, _consectetur adipiscing elit_, sed do eiusmod tempor
 
 > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-Check out this **awesome** [Theme](https://github.com/sabrinaluo/gatsby-theme-replica 'replica theme for gatsby').
+Check out this **awesome** [Theme](https://github.com/sanyamsmulay/gatsby-theme-github-replica 'github replica theme for gatsby').
 
 image
 
